@@ -1,0 +1,6 @@
+{
+  "name": "工单工作台",
+  "description": "面向生产管理的现代化高密度工单工作台，提供待办处理、执行链路全景、生产日历、核心指标看板、交期预警监控及明细下钻分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
